@@ -60,15 +60,15 @@ header a:hover {
     -o-transition: color 2s ease-out;
     transition: color 2s ease-out;
 }
-}
 
-p a:active, p a:visited {
+
+p a:link, p a:visited {
     color: rgb(33,132,185);
     text-decoration: none;
 }
 
 p a:hover {
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 #necklace {
